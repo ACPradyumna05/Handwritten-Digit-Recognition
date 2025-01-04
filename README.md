@@ -1,10 +1,10 @@
 # Handwritten Digit Classification
 
 # Problem Statement
-To classify images of handwritten digits present in the [MNIST dataset](https://www.tensorflow.org/datasets/catalog/mnist) using various models like K Nearest Neighbour, Support Vector Machine, Logistic Regression, Convolutional Neural Network, etc.
+To classify images of handwritten characters present in the EMNIST dataset using various models like K Nearest Neighbour, Support Vector Machine, Logistic Regression, Convolutional Neural Network, etc.
 
 # Setup
-* Dataset used: [MNIST dataset](https://www.tensorflow.org/datasets/catalog/mnist)
+* Dataset used: EMNIST dataset
 * No. of training samples = 60000
 * No. of test samples = 10000
 
