@@ -1,4 +1,4 @@
-# Handwritten Digit Classification
+# Handwritten Character Classification
 
 # Problem Statement
 To classify images of handwritten characters present in the EMNIST dataset using various models like K Nearest Neighbour, Support Vector Machine, Logistic Regression, Convolutional Neural Network, etc.
